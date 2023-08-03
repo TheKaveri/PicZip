@@ -1,0 +1,6 @@
+{
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
+    "files.associations": {
+        "vector": "cpp"
+    }
+}

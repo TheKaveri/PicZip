@@ -1,0 +1,52 @@
+[
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable main.cpp -o .objs/main.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/main.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable qtvar.cpp -o .objs/qtvar.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/qtvar.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable qtcount.cpp -o .objs/qtcount.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/qtcount.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable quadtree.cpp -o .objs/quadtree.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/quadtree.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable stats.cpp -o .objs/stats.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/stats.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable cs221util/RGBAPixel.cpp -o .objs/RGBAPixel.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/cs221util/RGBAPixel.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable cs221util/lodepng/lodepng.cpp -o .objs/lodepng.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/cs221util/lodepng/lodepng.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable cs221util/PNG.cpp -o .objs/PNG.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/cs221util/PNG.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable testComp.cpp -o .objs/testComp.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/testComp.cpp"
+    },
+    {
+        "command": "clang++ -std=c++14 -c -g -O0 -Wall -Wextra -pedantic -Wno-unused-parameter -Wno-unused-variable catch_config.cpp -o .objs/catch_config.o",
+        "directory": "/Users/jim/Desktop/PicZip",
+        "file": "/Users/jim/Desktop/PicZip/catch_config.cpp"
+    }
+]
